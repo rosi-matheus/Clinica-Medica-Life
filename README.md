@@ -24,3 +24,9 @@
 <h2>O possui 3 principais estilos para se ajustar as resolções:</h2>
 <ul>
     <li>320px até 425px (mobile)</li>
+    <li>426px até 768px (tablet)</li>
+    <li>769px ou acima (desktop)</li>
+</ul>
+
+<img src="Landing Page/Home-CMLife.png"/>
+<img src="Landing Page/Especialidades-CMLife.png"/>
